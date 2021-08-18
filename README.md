@@ -18,8 +18,8 @@ cd flyBird
 
 + **代码预览**
 
-![image-20210818143527025](D:\vip\03_flyBird\README-IMG\代码预览.png)
+![image-20210818143527025](README-IMG\代码预览.png)
 
 + **运行预览**
 
-![image-20210818143725753](D:\vip\03_flyBird\README-IMG\运行预览.png)
+![image-20210818143725753](README-IMG\运行预览.png)
