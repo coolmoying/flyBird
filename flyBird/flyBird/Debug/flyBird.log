@@ -1,0 +1,12 @@
+﻿  game.cpp
+C:\Users\moying\Desktop\flyBird\flyBird\game.cpp(106,20): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\moying\Desktop\flyBird\flyBird\game.cpp(106,12): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\moying\Desktop\flyBird\flyBird\game.cpp(107,20): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\moying\Desktop\flyBird\flyBird\game.cpp(107,12): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\moying\Desktop\flyBird\flyBird\game.cpp(126,20): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\moying\Desktop\flyBird\flyBird\game.cpp(126,12): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\moying\Desktop\flyBird\flyBird\game.cpp(127,20): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\moying\Desktop\flyBird\flyBird\game.cpp(127,12): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\moying\Desktop\flyBird\flyBird\game.cpp(174,25): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\moying\Desktop\flyBird\flyBird\game.cpp(174,16): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  flyBird.vcxproj -> C:\Users\moying\Desktop\flyBird\Debug\flyBird.exe
