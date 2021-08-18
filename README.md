@@ -18,8 +18,8 @@ cd flyBird
 
 + **代码预览**
 
-![image-20210818143527025](README-IMG\代码预览.png)
+![image-20210818143527025](https://github.com/coolmoying/flyBird/blob/master/README-IMG/%E4%BB%A3%E7%A0%81%E9%A2%84%E8%A7%88.png)
 
 + **运行预览**
 
-![image-20210818143725753](README-IMG\运行预览.png)
+![image-20210818143725753](https://github.com/coolmoying/flyBird/blob/master/README-IMG/%E8%BF%90%E8%A1%8C%E9%A2%84%E8%A7%88.png)
